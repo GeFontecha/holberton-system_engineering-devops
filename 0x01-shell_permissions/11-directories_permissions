@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod -R 222 0x01-shell_permissions
