@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R u-r-w+x, g-r-w+x, o-r-w+x
+chmod du-r-w+x, dg-r-w+x, do-r-w+x]
