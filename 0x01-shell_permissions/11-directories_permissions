@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod R u-r-w+x, g-r-w+x, o-r-w+x home/germanubuntu/Holberton/holberton-system_engineering-devops/0x01-shell_permissions
+chmod  du-r-w+x, dg-r-w+x, do-r-w+x 
