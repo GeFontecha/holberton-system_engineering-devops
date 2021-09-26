@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  du-r-w+x, dg-r-w+x, do-r-w+x 
+chmod  -R 111
