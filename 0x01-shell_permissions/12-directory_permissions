@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 [mkdri my_dir]
+chmod (751 (mkdri my_dir))
