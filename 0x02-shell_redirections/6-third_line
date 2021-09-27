@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -v n=3 'NR==n' iacta #awk 'NR==3' iacta
+head iacta | tail -3 | head -1 #tail -n 5 | head -n 3 #awk -v n=3 'NR==n' iacta #awk 'NR==3' iacta
