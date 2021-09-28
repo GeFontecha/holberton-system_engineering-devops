@@ -1,2 +1,2 @@
 #!/bin/bash
-tr Z A | tr e c
+sort -b /etc/ssh/ssh_config
