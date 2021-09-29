@@ -1,0 +1,5 @@
+#!/bin/bash
+#export BINARY=101,
+#printf "$((2#BINARY))"
+#printf '%x\n' "$((2#BINARY))
+echo "$((2#BINARY))"
